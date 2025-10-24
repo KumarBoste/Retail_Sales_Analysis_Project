@@ -1,4 +1,4 @@
-# Retail Sales Analysis SQL Project
+# Retail Sales Analysis Project using SQL
 ![RSA LOGO](https://github.com/KumarBoste/Retail_Sales_Analysis_Project/blob/main/Logo.png)
 
 ## Project Overview
