@@ -22,6 +22,9 @@ This project is designed to demonstrate SQL skills and techniques typically used
 -- Create Database :
 CREATE DATABASE retail_db;
 
+-- Use Database :
+USE retail_db;
+
 -- Create Tables :
 CREATE TABLE retail_sales
 (
